@@ -17,3 +17,15 @@
 Нашли хэш с помощью sha256sum
 
 <img width="2175" height="829" alt="image" src="https://github.com/user-attachments/assets/2fcc31bb-2cfb-4e30-92de-d15e127d247b" />
+
+нашли процесс через js файл
+
+<img width="1530" height="1172" alt="image" src="https://github.com/user-attachments/assets/e661f09e-9024-4b7a-9371-b6933d05d518" />
+
+загнали файл в virus total он обращался к resources.dll спустя множество попыток расшифровать js файл не вышло и пошел в virus total нашел запрос
+
+<img width="785" height="266" alt="image" src="https://github.com/user-attachments/assets/3a50ee1a-de0e-444d-adc0-db721de4b997" />
+
+экспортировали файл и md5sum сделали
+
+<img width="773" height="745" alt="image" src="https://github.com/user-attachments/assets/012cf682-6a44-4b75-aeda-8ae5e9a45de9" />
